@@ -12,6 +12,4 @@
 		  <property name="payment" ref="debit" />
 	</bean>
 		   
-   	
-
 </beans>
