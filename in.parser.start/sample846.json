@@ -1,0 +1,88 @@
+{
+  "TransactionSetControlNumber":"99",
+    "GroupControlNumber":"99",
+  
+  "InventoryItems": [
+    {
+      "SKU": "1000",
+      "Product Name": "DRAPE",
+      "Price": 10.99,
+      "Parent SKU": "ParentSKU1",
+      "Brand Name": "Brand1",
+      "Taxonomy/Categories": ["Category1", "Category2"]
+    },
+    {
+      "SKU": "1001",
+      "Product Name": "GAUZE",
+      "Price": 8.99,
+      "Parent SKU": "ParentSKU2",
+      "Brand Name": "Brand2",
+      "Taxonomy/Categories": ["Category2", "Category3"]
+    },
+    {
+      "SKU": "1002",
+      "Product Name": "BANDAGE",
+      "Price": 5.99,
+      "Parent SKU": "ParentSKU3",
+      "Brand Name": "Brand3",
+      "Taxonomy/Categories": ["Category3", "Category4"]
+    },
+    {
+      "SKU": "1003",
+      "Product Name": "BANDAGE",
+      "Price": 6.99,
+      "Parent SKU": "ParentSKU4",
+      "Brand Name": "Brand4",
+      "Taxonomy/Categories": ["Category4", "Category5"]
+    },
+    {
+      "SKU": "1004",
+      "Product Name": "DRESSING",
+      "Price": 12.99,
+      "Parent SKU": "ParentSKU5",
+      "Brand Name": "Brand5",
+      "Taxonomy/Categories": ["Category5", "Category6"]
+    },
+    {
+      "SKU": "1005",
+      "Product Name": "ADHESIVE",
+      "Price": 7.99,
+      "Parent SKU": "ParentSKU6",
+      "Brand Name": "Brand6",
+      "Taxonomy/Categories": ["Category6", "Category7"]
+    },
+    {
+      "SKU": "1006",
+      "Product Name": "BANDAGE",
+      "Price": 4.99,
+      "Parent SKU": "ParentSKU7",
+      "Brand Name": "Brand7",
+      "Taxonomy/Categories": ["Category7", "Category8"]
+    },
+    {
+      "SKU": "1007",
+      "Product Name": "PAD",
+      "Price": 9.99,
+      "Parent SKU": "ParentSKU8",
+      "Brand Name": "Brand8",
+      "Taxonomy/Categories": ["Category8", "Category9"]
+    },
+    {
+      "SKU": "1008",
+      "Product Name": "DRESSING",
+      "Price": 11.99,
+      "Parent SKU": "ParentSKU9",
+      "Brand Name": "Brand9",
+      "Taxonomy/Categories": ["Category9", "Category10"]
+    },
+    {
+      "SKU": "1009",
+      "Product Name": "WOUND",
+      "Price": 14.99,
+      "Parent SKU": "ParentSKU10",
+      "Brand Name": "Brand10",
+      "Taxonomy/Categories": ["Category10", "Category11"]
+    }
+  ]
+}
+

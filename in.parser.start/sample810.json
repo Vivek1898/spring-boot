@@ -1,0 +1,93 @@
+{
+	"AckNo": 122110043630982,
+	"AckDt": "20210414",
+	"Irn": "4c963684c79015ca252debc382d60b77911eb1d7da4f9be229f7bad762653fc1",
+	"Version": "1.1",
+	"TranDtls": {
+		"TaxSch": "GST",
+		"SupTyp": "B2B",
+		"RegRev": "N",
+		"IgstOnIntra": "N"
+	},
+	"DocDtls": {
+		"Typ": "INV",
+		"No": "1004",
+		"Dt": "20210414"
+	},
+	"SellerDtls": {
+		"Gstin": "27AADCG4992P1ZT",
+		"LglNm": "GSTZen DEMO Company",
+		"Addr1": "Banaswadi",
+		"Addr2": "Banaswadi",
+		"Loc": "Mumbai",
+		"Pin": 400111,
+		"Stcd": "27"
+	},
+	"BuyerDtls": {
+		"Gstin": "27AAACK1947K1ZD",
+		"LglNm": "ABC Software PVT. LTD.",
+		"Pos": "27",
+		"Addr1": "STATION ROAD PIMPRI",
+		"Loc": "PUNE",
+		"Pin": 411018,
+		"Stcd": "27"
+	},
+	"DispDtls": {
+		"Nm": "GSTZen DEMO Company",
+		"Addr1": "Banaswadi",
+		"Addr2": "Banaswadi",
+		"Loc": "Bangalore",
+		"Pin": 560077,
+		"Stcd": "29"
+	},
+	"ItemList": [
+		{
+			"ItemNo": 0,
+			"SlNo": "1",
+			"IsServc": "N",
+			"PrdDesc": "1600 MM ID X 19.8 MM MIN X 25 MM NOM THK.       ",
+			"HsnCd": "84879000",
+			"Qty": 4,
+			"Unit": "NOS",
+			"UnitPrice": 78000,
+			"TotAmt": 312000,
+			"Discount": 0,
+			"AssAmt": 312000,
+			"GstRt": 18,
+			"IgstAmt": 0,
+			"CgstAmt": 28080,
+			"SgstAmt": 28080,
+			"CesRt": 0,
+			"CesAmt": 0,
+			"CesNonAdvlAmt": 0,
+			"StateCesRt": 0,
+			"StateCesAmt": 0,
+			"StateCesNonAdvlAmt": 0,
+			"TotItemVal": 368160,
+			"PrdSlNo": "03 & 04"
+		}
+	],
+	"ValDtls": {
+		"AssVal": 312000,
+		"CgstVal": 28080,
+		"SgstVal": 28080,
+		"IgstVal": 0,
+		"CesVal": 0,
+		"StCesVal": 0,
+		"Discount": 0,
+		"OthChrg": 100,
+		"RndOffAmt": 0,
+		"TotInvVal": 368260,
+		"TotInvValFc": 0
+	},
+	"TCSChrg": [
+		{
+			"TCSChrg": 0,
+			"TCSChrgLed": "TCS Ledger (dummy)"
+		}
+	],
+	"ValDtlsFromUser": {
+		"OthChrg": 100,
+		"TotInvValFc": 0
+	}
+}

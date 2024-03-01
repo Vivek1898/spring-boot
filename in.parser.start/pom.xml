@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>in.parser</groupId>
+  <artifactId>in.parser.start</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+ 
+ <dependencies>
+<!-- https://mvnrepository.com/artifact/io.xlate/staedi -->
+<dependency>
+    <groupId>io.xlate</groupId>
+    <artifactId>staedi</artifactId>
+    <version>1.24.1</version>
+</dependency>
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20210307</version>
+</dependency>
+
+<dependency>
+    <groupId>org.smooks.cartridges.edi</groupId>
+    <artifactId>smooks-edi-cartridge</artifactId>
+    <version>2.0.0-RC3</version>
+</dependency>
+
+ </dependencies>
+</project>

@@ -1,0 +1,13 @@
+ISA*00*          *00*          *ZZ*ReceiverID     *ZZ*Sender         *202302*1011*U*00401*8dca6bb7-*0*P*>~
+ST*810*0001~
+BIG*6010119813*2023-07-10*DI~
+REF*IA*12345~
+N1*ST*Buy More Inc.*92*22234223~
+N1*SF*Future Electronics*92*23424~
+IT1*1*25*EA*200.0*CP*476001000~
+PID*F*43-inch LED TV~
+IT1*2*40*EA*150.0*CP*52242422~
+PID*F*Noice cancellation headphone~
+SE*4*0001~
+GE*1*0001~
+IEA*1*3075228f-~

@@ -1,0 +1,78 @@
+{
+  "Header": {
+    "InvoiceHeader": {
+      "InvoiceDate": "2023-07-10",
+      "InvoiceNumber": "",
+      "PurchaseOrderNumber": "312312414",
+      "PurchaseOrderDate": "2023-06-24",
+      "ShippedDate": "2023-07-03",
+      "TransactionTypeCode": "SA" 
+    },
+    "References": [
+      {
+        "ReferenceQualifier": "IA",
+        "ReferenceID": "12345"
+      }
+    ],
+    "Address": [
+      {
+        "AddressTypeCode": "ST",
+        "Name": "Buy More Inc.",
+        "IDCodeQualifier": "92",
+        "IDCode": "22234223",
+        "Address1": "123",
+        "City": "Burbank",
+        "State": "CA",
+        "PostalCode": "424224",
+        "Country": "US"
+      },
+      {
+        "AddressTypeCode": "SF",
+        "Name": "Future Electronics",
+        "IDCodeQualifier": "92",
+        "IDCode": "23424",
+        "Address1": "5644 OLD DOBBIN LANE",
+        "City": "COLUMBIA",
+        "State": "MD",
+        "PostalCode": "21045",
+        "Country": "US"
+      }
+    ]
+  },
+  "Structure": {
+    "LineItem": [
+      {
+        "InvoiceLine": {
+          "LineNumber": "1",
+          "InvoicedQty": 25,
+          "ItemUOM": "EA",
+          "UnitPrice": 200,
+          "VendorPartNumber": "476001000",
+          "BuyerPartNumber": "100020840",
+          "ManufacturerPartNumber": "476001000"
+        },
+        "ProductOrItemDescription": {
+          "ProductDescription": "43-inch LED TV"
+        }
+      },
+      {
+        "InvoiceLine": {
+          "LineNumber": "2",
+          "InvoicedQty": 40,
+          "ItemUOM": "EA",
+          "UnitPrice": 150,
+          "VendorPartNumber": "52242422",
+          "BuyerPartNumber": "24424242",
+          "ManufacturerPartNumber": "52242422"
+        },
+        "ProductOrItemDescription": {
+          "ProductDescription": "Noise cancellation headphone"
+        }
+      }
+    ]
+  },
+  "Summary": {
+    "TotalAmount": 11000.00,
+    "TotalLineItems": 2
+  }
+}
